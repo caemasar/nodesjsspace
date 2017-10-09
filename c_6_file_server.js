@@ -50,3 +50,6 @@ server.listen(8014);
 // console.log('Server is running ('+(server.listening)+') at http://127.0.0.1:8014/ -->>('+server.connections+')');
 
 console.log('Server is running at http://127.0.0.1:8014/');
+
+
+// node c_6_file_server.js resources/static -->>启动命令
